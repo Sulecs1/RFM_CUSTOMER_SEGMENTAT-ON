@@ -2,7 +2,7 @@
 #             PROJE RFM MUSTERİ SEGMANTASONU                 #
 ##############################################################
 #<<<Şule AKÇAY>>>#
-#PEDAL ÇEVİRMEYE DEVAM !!! :)
+
 ###############################################################
 #Değişkenler##################################################
 #InvoiceNo: Fatura numarası. Her işleme yani faturaya ait eşsiz
